@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\04.SequencesOfEqualSrtings\bin\Debug\04.SequencesOfEqualSrtings.exe.config
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\04.SequencesOfEqualSrtings\bin\Debug\04.SequencesOfEqualSrtings.exe
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\04.SequencesOfEqualSrtings\bin\Debug\04.SequencesOfEqualSrtings.pdb
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\04.SequencesOfEqualSrtings\obj\Debug\04.SequencesOfEqualSrtings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\04.SequencesOfEqualSrtings\obj\Debug\04.SequencesOfEqualSrtings.exe
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\04.SequencesOfEqualSrtings\obj\Debug\04.SequencesOfEqualSrtings.pdb

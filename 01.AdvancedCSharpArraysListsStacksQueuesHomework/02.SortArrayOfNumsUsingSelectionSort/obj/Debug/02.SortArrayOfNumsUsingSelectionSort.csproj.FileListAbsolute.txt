@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\02.SortArrayOfNumsUsingSelectionSort\bin\Debug\02.SortArrayOfNumsUsingSelectionSort.exe.config
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\02.SortArrayOfNumsUsingSelectionSort\bin\Debug\02.SortArrayOfNumsUsingSelectionSort.exe
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\02.SortArrayOfNumsUsingSelectionSort\bin\Debug\02.SortArrayOfNumsUsingSelectionSort.pdb
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\02.SortArrayOfNumsUsingSelectionSort\obj\Debug\02.SortArrayOfNumsUsingSelectionSort.exe
+D:\SoftUni\Homeworks\01.AdvancedCSharpArraysListsStacksQueuesHomework\02.SortArrayOfNumsUsingSelectionSort\obj\Debug\02.SortArrayOfNumsUsingSelectionSort.pdb

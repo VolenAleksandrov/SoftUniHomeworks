@@ -1,0 +1,9 @@
+D:\SoftUni\Homeworks\05.RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe.config
+D:\SoftUni\Homeworks\05.RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe
+D:\SoftUni\Homeworks\05.RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.pdb
+D:\SoftUni\Homeworks\05.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\05.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.exe
+D:\SoftUni\Homeworks\05.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.pdb
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe.config
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.exe
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.pdb

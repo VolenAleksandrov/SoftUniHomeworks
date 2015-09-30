@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\03.Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+D:\SoftUni\Homeworks\03.Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+D:\SoftUni\Homeworks\03.Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+D:\SoftUni\Homeworks\03.Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+D:\SoftUni\Homeworks\03.Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb

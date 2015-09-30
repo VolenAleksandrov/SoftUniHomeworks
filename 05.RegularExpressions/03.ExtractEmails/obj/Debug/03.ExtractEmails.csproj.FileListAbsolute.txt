@@ -1,0 +1,8 @@
+D:\SoftUni\Homeworks\05.RegularExpressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+D:\SoftUni\Homeworks\05.RegularExpressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe
+D:\SoftUni\Homeworks\05.RegularExpressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.pdb
+D:\SoftUni\Homeworks\05.RegularExpressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+D:\SoftUni\Homeworks\05.RegularExpressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb

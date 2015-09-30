@@ -1,0 +1,8 @@
+D:\SoftUni\Homeworks\05.RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+D:\SoftUni\Homeworks\05.RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
+D:\SoftUni\Homeworks\05.RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
+D:\SoftUni\Homeworks\05.RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+D:\SoftUni\Homeworks\05.RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\02.StringLength\bin\Debug\02.StringLength.exe.config
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\02.StringLength\bin\Debug\02.StringLength.exe
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\02.StringLength\bin\Debug\02.StringLength.pdb
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\02.StringLength\obj\Debug\02.StringLength.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\02.StringLength\obj\Debug\02.StringLength.exe
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\02.StringLength\obj\Debug\02.StringLength.pdb
+D:\SoftUni\Homeworks\GitHomeworks\04.StringsAndTextProcessing\02.StringLength\bin\Debug\02.StringLength.exe.config
+D:\SoftUni\Homeworks\GitHomeworks\04.StringsAndTextProcessing\02.StringLength\obj\Debug\02.StringLength.exe
+D:\SoftUni\Homeworks\GitHomeworks\04.StringsAndTextProcessing\02.StringLength\obj\Debug\02.StringLength.pdb

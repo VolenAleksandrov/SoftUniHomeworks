@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\03.CountSubStringOccurences\bin\Debug\03.CountSubStringOccurences.exe.config
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\03.CountSubStringOccurences\bin\Debug\03.CountSubStringOccurences.exe
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\03.CountSubStringOccurences\bin\Debug\03.CountSubStringOccurences.pdb
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\03.CountSubStringOccurences\obj\Debug\03.CountSubStringOccurences.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\03.CountSubStringOccurences\obj\Debug\03.CountSubStringOccurences.exe
+D:\SoftUni\Homeworks\04.StringsAndTextProcessing\03.CountSubStringOccurences\obj\Debug\03.CountSubStringOccurences.pdb

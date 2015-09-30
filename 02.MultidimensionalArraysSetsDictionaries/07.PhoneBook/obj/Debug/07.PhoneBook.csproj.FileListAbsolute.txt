@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\02.MultidimensionalArraysSetsDictionaries\07.PhoneBook\bin\Debug\07.PhoneBook.exe.config
+D:\SoftUni\Homeworks\02.MultidimensionalArraysSetsDictionaries\07.PhoneBook\bin\Debug\07.PhoneBook.exe
+D:\SoftUni\Homeworks\02.MultidimensionalArraysSetsDictionaries\07.PhoneBook\bin\Debug\07.PhoneBook.pdb
+D:\SoftUni\Homeworks\02.MultidimensionalArraysSetsDictionaries\07.PhoneBook\obj\Debug\07.PhoneBook.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\02.MultidimensionalArraysSetsDictionaries\07.PhoneBook\obj\Debug\07.PhoneBook.exe
+D:\SoftUni\Homeworks\02.MultidimensionalArraysSetsDictionaries\07.PhoneBook\obj\Debug\07.PhoneBook.pdb

@@ -1,0 +1,8 @@
+D:\SoftUni\Homeworks\05.RegularExpressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe.config
+D:\SoftUni\Homeworks\05.RegularExpressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe
+D:\SoftUni\Homeworks\05.RegularExpressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.pdb
+D:\SoftUni\Homeworks\05.RegularExpressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.exe
+D:\SoftUni\Homeworks\05.RegularExpressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.pdb
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe.config
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.exe
+D:\SoftUni\Homeworks\GitHomeworks\05.RegularExpressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\02.ClassWork\01.Labb\bin\Debug\01.Labb.exe.config
+D:\SoftUni\Homeworks\02.ClassWork\01.Labb\obj\Debug\01.Labb.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\02.ClassWork\01.Labb\bin\Debug\01.Labb.exe
+D:\SoftUni\Homeworks\02.ClassWork\01.Labb\bin\Debug\01.Labb.pdb
+D:\SoftUni\Homeworks\02.ClassWork\01.Labb\obj\Debug\01.Labb.exe
+D:\SoftUni\Homeworks\02.ClassWork\01.Labb\obj\Debug\01.Labb.pdb

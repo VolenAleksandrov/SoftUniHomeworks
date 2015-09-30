@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\03.Methods\03.LargerThenNeighbours\bin\Debug\03.LargerThenNeighbours.exe.config
+D:\SoftUni\Homeworks\03.Methods\03.LargerThenNeighbours\bin\Debug\03.LargerThenNeighbours.exe
+D:\SoftUni\Homeworks\03.Methods\03.LargerThenNeighbours\bin\Debug\03.LargerThenNeighbours.pdb
+D:\SoftUni\Homeworks\03.Methods\03.LargerThenNeighbours\obj\Debug\03.LargerThenNeighbours.exe
+D:\SoftUni\Homeworks\03.Methods\03.LargerThenNeighbours\obj\Debug\03.LargerThenNeighbours.pdb
+D:\SoftUni\Homeworks\03.Methods\03.LargerThenNeighbours\obj\Debug\03.LargerThenNeighbours.csprojResolveAssemblyReference.cache
